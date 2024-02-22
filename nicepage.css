@@ -42870,8 +42870,8 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 24px;
   min-height: 16px;
-  width: 127px;
-  min-width: 94px;
+  width: 161px;
+  min-width: 120px;
   margin: 0 20px 0 auto;
 }
 
@@ -42889,6 +42889,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-icon-4 {
   color: rgb(0, 122, 185) !important;
+}
+
+.u-footer .u-icon-5 {
+  height: 24px;
+  color: rgb(59, 89, 152) !important;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -42923,6 +42928,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
+    width: 127px;
+    min-width: 94px;
     margin-right: 0;
   }
 }
